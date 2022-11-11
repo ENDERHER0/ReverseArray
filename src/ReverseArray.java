@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class ReverseArray {
     public static void reverse(int[] array) {
         System.out.println("Array = " + Arrays.toString(array));
