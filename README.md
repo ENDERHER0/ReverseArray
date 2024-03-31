@@ -7,3 +7,5 @@ Otherwise, the function creates a new array of identical size as the input array
 Once all elements have been assigned and the loop has been completed, the new array with the reversed order is returned. 
 
 This function provides a useful utility for Java programmers seeking to rapidly reverse the order of an array without modifying the original array.
+
+I learned you can initialize more than 1 variable in a loop.
